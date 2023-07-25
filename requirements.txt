@@ -4,7 +4,7 @@ anyio==3.6.2
 async-timeout==4.0.2
 asynctest==0.13.0
 attrs==23.1.0
-certifi==2023.5.7
+certifi==2023.7.22
 charset-normalizer==3.1.0
 clarifai==9.4.0
 clarifai-grpc==9.4.0
